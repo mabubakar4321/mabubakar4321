@@ -33,13 +33,9 @@
 
 ### 🔗 My Best Projects
 
-- 🔐 [Laravel Authentication](https://github.com/mabubakar4321/laravel-Authentication)
-- 🧮 [Laravel CRUD App](https://github.com/mabubakar4321/Laravel-simple-Crud)
-- ⚡ [AJAX CRUD](https://github.com/mabubakar4321/Ajax_Crud)
-- 📘 [Book Scraper (Python)](https://github.com/mabubakar4321/BookScraper)
-- ✅ [Form Validation Project](https://github.com/mabubakar4321/form_validation_project)
-
----
+- 📚 [Library Management System – Laravel 12, Jetstream, Bootstrap](https://github.com/mabubakar4321/-Library-Management-System-Laravel-12-Jetstream-Bootstrap)
+- 🛒 [Advanced Laravel 11 E-Commerce Platform with Breeze, PDF Invoicing, Bootstrap UI](https://github.com/mabubakar4321/Advanced-Laravel-11-E-Commerce-Platform-with-Breeze-PDF-Invoicing-Bootstrap-UI)
+- 🎓 [Student Management System – Laravel](https://github.com/mabubakar4321/Student-Management-System-laravel)
 
 ### 📊 GitHub Stats
 
