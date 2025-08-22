@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently Working On: **Student Expense Tracker App (Laravel)**
+- 🔭 Currently Working On: **Smart-Restaurant-Reservation-System---Laravel-10 **
 - 🌱 Learning: **Laravel Livewire, Alpine.js & Modern Tailwind Practices**
 - 💬 Ask Me About: `Laravel`, `REST APIs`, `WordPress Custom Development`, `MySQL`, `AJAX`, `jQuery`
 - 📫 Reach Out: **[abubakar0228648@gmail.com](mailto:abubakar0228648@gmail.com)**
@@ -44,6 +44,7 @@
 
 | Name | Tech | Description |
 |------|------|-------------|
+| [📚Smart-Restaurant-Reservation-System---Laravel-10 ](https://github.com/mabubakar4321/Smart-Restaurant-Reservation-System---Laravel-10) | Laravel 10, Custom Auth | Full-featured Reservation app with Bootstrap UI | 
 | [📚 Library Management System](https://github.com/mabubakar4321/-Library-Management-System-Laravel-12-Jetstream-Bootstrap) | Laravel 12, Jetstream | Full-featured library app with Bootstrap UI |
 | [🛒 Advanced E-Commerce Platform](https://github.com/mabubakar4321/Advanced-Laravel-11-E-Commerce-Platform-with-Breeze-PDF-Invoicing-Bootstrap-UI) | Laravel 11, Breeze | Custom cart, checkout, PDF invoicing |
 | [🎓 Student Management System](https://github.com/mabubakar4321/Student-Management-System-laravel) | Laravel | CRUD-based student info & report system |
